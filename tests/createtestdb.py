@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS hugetable (
    crazynumber REAL
 );
 """
-
+hgfhhfgghgfh
 def main():
     if len(sys.argv) != 2:
         sys.exit("please specify the db filename")
